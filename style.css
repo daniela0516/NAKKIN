@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+html{
+    font-family: 'Anton', sans-serif;
+}
+#Navegacion{
+    background-color: linear-gradient(a la derecha, #ff3131 0%, #ff914d 100%);
+    color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#Navegacion > img{
+    width: 100px;
