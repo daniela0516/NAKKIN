@@ -4,7 +4,7 @@ html{
     font-family: 'Anton', sans-serif;
 }
 #Navegacion{
-    background-color: linear-gradient(a la derecha, #ff3131 0%, #ff914d 100%);
+    background-Color; linear-gradient(to right, #ff3131 0%, #ff914d 100%);
     color: orange;
     display: flex;
     flex-direction: row;
