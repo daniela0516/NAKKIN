@@ -4,29 +4,13 @@ html{
     font-family: 'Anton', sans-serif;
 }
 #Navegacion{
-    background; linear-gradient(to right, #ff3131 0%, #ff914d 100%);
-    color: orange;
-    display: flex;
-    flex-direction: row;
+    background; linear-gradient(to right, #ff3131 0%, #ff914d 100%) ;
+    color: black ;
+    display: block;
+    flex-direction: left;
     justify-content: space-between;
     float: left;
-    padding: 15px; 
+    padding: 300px; 
 }
 #Navegacion > img{
     width: 100px;}
-#Navegación > ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-
-#Navegación > li {
-  float: left;
-}
-
-#Navegación > li a {
-  display: block;
-  padding: 8px;
-  background-color: #dddddd;
-}
