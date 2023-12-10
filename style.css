@@ -3,14 +3,14 @@
 html{
     font-family: 'Anton', sans-serif;
 }
-#Panel de navegación{
-
 #Navegacion{
-    background-Color; linear-gradient(to right, #ff3131 0%, #ff914d 100%);
+    background; linear-gradient(to right, #ff3131 0%, #ff914d 100%);
     color: orange;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    float: left;
+    padding: 15px; 
 }
 #Navegacion > img{
-    width: 100px;
+    width: 100px;}
