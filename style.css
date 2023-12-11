@@ -3,14 +3,58 @@
 html{
     font-family: 'Anton', sans-serif;
 }
-#Navegacion{
-    background; linear-gradient(to right, #ff3131 0%, #ff914d 100%) ;
-    color: black ;
-    display: block;
-    flex-direction: left;
-    justify-content: space-between;
-    float: left;
-    padding: 300px; 
-}
-#Navegacion > img{
-    width: 100px;}
+body{background-color: black;}
+div{background-image: linear-gradient(to right,#ff3131 20%, #ff914d 100%);
+color: black;
+display: block;
+float: right;
+position: fixed;
+bottom: 570px;
+right: -17px;
+width: 1400px;
+height: 200px;
+border-radius: 20px;}
+#button1{background-color:white;
+width: 200px;
+padding: 10px 15px;
+color: black;
+font-size: 20px;
+border: none;
+display: inline-block;
+text-align: center;
+margin: 4px 4px;
+border-radius: 30px;
+height: 50px;
+margin-top: 1cm;
+margin-left: 10cm;}
+#button2{background-color: white;
+width: 200px;
+padding: 10px 15px;
+color: black;
+font-size: 20px;
+border: none;
+height: 50px;
+display: inline-block;
+text-align: center;
+margin: 4px 4px;
+border-radius: 30px;}
+#button3{background-color: white;
+width: 300px;
+padding: 10px 15px;
+font-size: 20px;
+border: none;
+height: 50px;
+display: inline-block;
+text-align: center;
+margin: -30px 4px;
+border-radius: 30px;}
+#img1{width: 300px;
+margin-left: 1cm;
+margin-right: 0cm;
+margin-bottom: -2cm;}
+#img2{width: 80px;
+margin-left: 27cm;
+margin-right: 5cm;
+margin-bottom: -1.5cm;}
+.header{background-color: #f1f1f1;
+  padding: 2px;}
